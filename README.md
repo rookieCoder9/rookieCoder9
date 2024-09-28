@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Sahil aka rookieCoder9 
-- 👀 I’m interested in Web Devlopment.
-- 🌱 I’m currently learning React JS.
-- 📫 Reach me at "hifromsahil.netlify.app"
+- 👋 Hi, I’m Sahil aka rookieCoder9
+- 👨‍💻 I'm currently working as a Software Engineer at Park+.
+- 👀 I'm am curious to built scalable backend systems.
+- 🌱 My Tech Stack: Python, JS, Kafka, Django, Next, GCP
+- 📫 Reach me at https://kumarsahil.me/
 
 <!---
 rookieCoder9/rookieCoder9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
